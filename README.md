@@ -6,5 +6,7 @@
  * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/8d73f7f3-76c3-4586-8448-975405f44156)
 
 # Step 2 Make sure you have Consent to Scan the Network or Devices you will be Scanning 
-# The Vulnerability Scan will be Done on my 2012 Mac Book Pro
+ * The Vulnerability Scan will be Done on my 2012 Mac Book Pro
   * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/e2d06ede-3308-4f30-bb58-9b24c7d5f893)
+
+ # Step 3 We will be downloading the QualysCloudAgent
