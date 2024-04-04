@@ -23,6 +23,9 @@
   * Enter Command in Termainal
     ``   sudo /Applications/QualysCloudAgent.app/Contents/MacOS/qualys-cloud-agent.sh ActivationId=fbdcf372-a8ca-4f35-a74f-3cfd09aa76ef CustomerId=2b347ec6-5fcc-6231-83df-181ef6aa0bd1 ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/  ``
 
+    * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/673100fb-1502-47dd-9409-fe264548c0dd)
+
+
 
 
 
