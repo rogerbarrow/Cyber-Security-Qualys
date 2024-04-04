@@ -25,6 +25,9 @@
 
     * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/673100fb-1502-47dd-9409-fe264548c0dd)
     * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/2f38f276-4dcd-41c2-9989-7be691afca78)
+   # Next we Active the Agent
+   *b ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/00167c80-d4e7-447e-80d3-28010413c626)
+
 
 
 
