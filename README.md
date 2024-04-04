@@ -7,4 +7,4 @@
 
 # Step 2 Make sure you have Consent to Scan the Network or Devices you will be Scanning 
 # The Vulnerability Scan will be Done on my 2012 Mac Book Pro
-  * [image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/e2d06ede-3308-4f30-bb58-9b24c7d5f893)
+  * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/e2d06ede-3308-4f30-bb58-9b24c7d5f893)
