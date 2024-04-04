@@ -12,5 +12,7 @@
  # Step 3 We will be downloading the QualysCloudAgent
    * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/495bc2ed-578c-4c8a-bbe5-d7582e5a8898)
    * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/d83f4403-9d2e-42a4-bbaf-f5660e5ecb20)
+   * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/e04825b1-d052-416d-966b-d78eeaae2cd6)
+
 
 
