@@ -15,6 +15,11 @@
    * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/e04825b1-d052-416d-966b-d78eeaae2cd6)
    * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/0022d5e8-4f67-472c-9315-778c5590fdd0)
 
+# In the Termail
+  * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/d891a53f-23e9-4c1e-a40d-a7778b0bccd3)
+``  sudo installer -pkg ./QualysCloudAgent.pkg  -target / ``
+  * ![image](https://github.com/rogerbarrow/Cyber-Security-Qualys/assets/46138186/fffa6136-a745-4412-951f-d1447ec38527)
+
 
 
 
